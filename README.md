@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/spotfei-identity.jpg" alt="SpotFEI visual identity" width="320">
+</div>
+
 # 🎵 SpotFEI
 
 SpotFEI is a terminal-based music platform developed in **Python** as an academic project at **Centro Universitário FEI**.
