@@ -1,0 +1,20 @@
+001,No Idea,Don Toliver,Heaven or Hell,2:33
+002,After Party,Don Toliver,Heaven or Hell,2:47
+003,Lose Yourself,Eminem,8 Mile,5:20
+004,Without Me,Eminem,The Eminem Show,4:50
+005,Sunflower,Post Malone,Spider-Man: Into the Spider-Verse,2:38
+006,Rockstar,Post Malone,Beerbongs & Bentleys,3:38
+007,One Dance,Drake,Views,2:54
+008,Gods Plan,Drake,Scorpion,3:19
+009,Not Like Us,Kendrick Lamar,Single,4:34
+010,HUMBLE,Kendrick Lamar,DAMN.,2:57
+011,Espresso,Sabrina Carpenter,Single,2:56
+012,SICKO MODE,Travis Scott,ASTROWORLD,5:12
+013,CANT SAY,Travis Scott,ASTROWORLD,3:18
+014,Master of Puppets,Metallica,Master of Puppets,8:36
+015,Tokyo Drift,Teriyaki Boyz,The Fast and the Furious: Tokyo Drift,4:15
+016,Im the One,DJ Khaled,Grateful,4:48
+017,Colors,Jason Derulo,Single,3:07
+018,Californication,Red Hot Chili Peppers,Californication,5:21
+019,X,J Balvin,Vibras,3:11
+020,See You Again,Wiz Khalifa,Single,3:50
