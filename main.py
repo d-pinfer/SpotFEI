@@ -1,8 +1,8 @@
-# Dicionário que representa o menu principal do Spotifei, exibido ao iniciar o programa
+# Dicionário que representa o menu principal do Spotfei, exibido ao iniciar o programa
 menu = {
     1: "🎤 CRIAR UMA NOVA CONTA ➕",
     2: "🔐 ENTRAR NA SUA CONTA 🔑",
-    0: "🚪 SAIR DO SPOTIFEI 👋",
+    0: "🚪 SAIR DO SPOTFEI 👋",
 }
 
 
