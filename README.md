@@ -87,6 +87,12 @@ The project was developed to practice fundamental programming concepts such as d
 
 This is an academic project created for learning purposes. User data is stored locally in plain-text files and the authentication model is not intended for production use.
 
+## 🎥 Demo
+
+Watch a test/demo of the project on YouTube:
+
+[▶️ SpotFEI — Project Demo](https://youtu.be/SxKgklxKK-c)
+
 ## 🎓 Academic Context
 
 Project developed during the **Computer Science** program at **Centro Universitário FEI**.
