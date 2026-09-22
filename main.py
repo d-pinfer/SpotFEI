@@ -45,7 +45,7 @@ menu5 = {
 # Essa função imprime o cabeçalho do programa com nome do projeto, slogan, meu nome e RA:
 def slogan():
     print("\n" + "=" * 60)
-    print("🎧🎶 BEM-VINDO AO SPOTIFEI 🎶🎧".center(60)) # Imprime o título centralizado
+    print("🎧🎶 BEM-VINDO AO SPOTFEI 🎶🎧".center(60)) # Imprime o título centralizado
     print("=" * 60)
     print("✨ SUA VIBE, SEU SOM, DO SEU JEITO ✨".center(60)) # Imprime o slogan centralizado
     print("-" * 60)
@@ -269,7 +269,7 @@ def criar_conta():
         arquivo.write(f"{email},{senha},{nome}\n") # Guarda na mesma linha separando por ","
 
     print("\n🎉 CONTA CRIADA COM SUCESSO!")
-    print(f"🎧 SEJA MUITO BEM-VINDO(A) AO SPOTIFEI, {nome.upper()}! 🎧\n")
+    print(f"🎧 SEJA MUITO BEM-VINDO(A) AO SPOTFEI, {nome.upper()}! 🎧\n")
 
 
 # Essa função faz login com base no banco de dados cadastros.txt
@@ -309,7 +309,7 @@ def entrar_conta():
 
 # Essa função encerra o programa
 def sair():
-    print("\n📴 ENCERRANDO SUA EXPERIÊNCIA NO SPOTIFEI...")
+    print("\n📴 ENCERRANDO SUA EXPERIÊNCIA NO SPOTFEI...")
     print("🙏 OBRIGADO POR USAR NOSSA PLATAFORMA. ATÉ LOGO!\n")
     exit() #FIM
 
