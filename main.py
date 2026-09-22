@@ -1,4 +1,4 @@
-# Dicionário que representa o menu principal do Spotfei, exibido ao iniciar o programa
+# Dicionário que representa o menu principal do SpotFEI, exibido ao iniciar o programa
 menu = {
     1: "🎤 CRIAR UMA NOVA CONTA ➕",
     2: "🔐 ENTRAR NA SUA CONTA 🔑",
@@ -42,14 +42,14 @@ menu5 = {
 }
 
 
-# Essa função imprime o cabeçalho do programa com nome do projeto, slogan, meu nome e RA:
+# Essa função imprime o cabeçalho do programa com nome do projeto, slogan e meu nome:
 def slogan():
     print("\n" + "=" * 60)
     print("🎧🎶 BEM-VINDO AO SPOTFEI 🎶🎧".center(60)) # Imprime o título centralizado
     print("=" * 60)
     print("✨ SUA VIBE, SEU SOM, DO SEU JEITO ✨".center(60)) # Imprime o slogan centralizado
     print("-" * 60)
-    print("👨‍💻 CREATED BY: DAVI PINHEIRO FERREIRA - RA: 72.125.009-0".center(60))  # Imprime minhas informações centralizadas
+    print("👨‍💻 CREATED BY: DAVI PINHEIRO FERREIRA".center(60))  # Imprime minhas informações centralizadas
     print("-" * 60 + "\n")
 
 
